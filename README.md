@@ -332,6 +332,11 @@
   [![Issues](http://img.shields.io/github/issues/Stouts/Stouts.statsd.svg)](https://github.com/Stouts/Stouts.statsd/issues)
   [![Tag](http://img.shields.io/github/tag/Stouts/Stouts.statsd.svg)](https://github.com/Stouts/Stouts.statsd)
 
+* [Stouts.statsdaemon](https://github.com/Stouts/Stouts.statsdaemon) -- Ansible role which manage statsdaemon  
+  [![Build Status](http://img.shields.io/travis/Stouts/Stouts.statsdaemon.svg)](https://travis-ci.org/Stouts/Stouts.statsdaemon)
+  [![Issues](http://img.shields.io/github/issues/Stouts/Stouts.statsdaemon.svg)](https://github.com/Stouts/Stouts.statsdaemon/issues)
+  [![Tag](http://img.shields.io/github/tag/Stouts/Stouts.statsdaemon.svg)](https://github.com/Stouts/Stouts.statsdaemon)
+
 * [Stouts.supervisor](https://github.com/Stouts/Stouts.supervisor) -- Ansible role which manage Supervisor  
   [![Build Status](http://img.shields.io/travis/Stouts/Stouts.supervisor.svg)](https://travis-ci.org/Stouts/Stouts.supervisor)
   [![Issues](http://img.shields.io/github/issues/Stouts/Stouts.supervisor.svg)](https://github.com/Stouts/Stouts.supervisor/issues)
